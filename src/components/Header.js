@@ -5,7 +5,7 @@ const Header = () => {
   return (
     <header>
       <nav>
-        <h1>Medcare</h1>
+        <h1>PILLBOT</h1>
         <div className="search-bar">
           <input type="text" placeholder="Search healthcare services" />
           <button>Search</button>
